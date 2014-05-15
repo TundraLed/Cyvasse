@@ -1,0 +1,29 @@
+Instructions
+
+Board
+
+Piece
+
+display() //shows all possible moves a piece can make
+
+move(point a, point b) //moves a piece from point a to point b
+
+legalMove() //checks to see if the move is legal, based on what the piecce is.
+
+placePieces() //allows each player to individually place his pieces somewhere on his side of the board.
+
+beginGame() //gives each player a time to study the opponent's board, then begins the game starting with a random player.
+
+	King
+	Dragon
+	Elephant
+	Heavy Horse
+	Light Horse
+	Trebuchet
+	Spearman
+	Crossbowman
+	Rabble
+	Mountain that Rides
+
+Trumpable - Dragon (Trebuchet), Heavy Horse, Light Horse (Spearman)
+
